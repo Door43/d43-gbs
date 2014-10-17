@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gbs:home|Door43 (gbs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gbs|d43-gbs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gbs/archive/master.zip|d43-gbs.zip]]
+
+**Recent Changes**
+{{changes>ns = gbs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gbs|Ethnologue data]]
+
